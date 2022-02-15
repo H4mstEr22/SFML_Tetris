@@ -1,0 +1,21 @@
+﻿  源.cpp
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(630,51): warning C4305: “初始化”: 从“double”到“float”截断
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(630,74): warning C4305: “初始化”: 从“double”到“float”截断
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(630,98): warning C4305: “初始化”: 从“double”到“float”截断
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(630,121): warning C4305: “初始化”: 从“double”到“float”截断
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(630,138): warning C4305: “初始化”: 从“double”到“float”截断
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(656,26): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(661,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(689,61): warning C4244: “=”: 从“sf::Int64”转换到“int”，可能丢失数据
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(705,59): warning C4244: “=”: 从“sf::Int64”转换到“int”，可能丢失数据
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(1340,88): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(1340,53): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(1361,97): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(1361,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(1373,44): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(1373,31): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(1392,60): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(1392,31): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(1408,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\VSC++\SFML Tetris\SFML Tetris\源.cpp(1408,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  SFML Tetris.vcxproj -> C:\VSC++\SFML Tetris\x64\Debug\SFML Tetris.exe
